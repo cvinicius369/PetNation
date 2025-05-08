@@ -1,10 +1,12 @@
 [
     {
+        "id": "0000",
         "imagem": "../assets/PetID/Id_0000/image.jpeg",
         "descricao": "Cachorro amigável e brincalhão.",
         "contato": "teste@email.com"
     },
     {
+        "id": "0001",
         "imagem": "../assets/PetID/Id_0001/image.jpeg",
         "descricao": "Gato tranquilo e carinhoso.",
         "contato": "teste@email.com"
