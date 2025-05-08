@@ -7,7 +7,7 @@ html, body{
     box-sizing: border-box;
 }
 body{
-    background-image: url("../assets/Backgrounds/Background_2.jpg");
+    background-image: url("../assets/Background_2.jpg");
     background-color: white;
     color: black;
     font-family: 'Quicksand', sans-serif;
