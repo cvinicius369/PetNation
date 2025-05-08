@@ -40,6 +40,15 @@ nav li {
     display: inline;
     margin: 10px 15px;
 }
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #ddd;
+    font-weight: bold;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
 
 /* POSTAGENS */
 #posts {
